@@ -1,0 +1,3 @@
+[submodule "Comprehensive-Transformer-TTS"]
+	path = Comprehensive-Transformer-TTS
+	url = ../../CherokeeLanguage/Comprehensive-Transformer-TTS.git
